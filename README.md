@@ -1,6 +1,6 @@
 # Valorant Tracker
 
-A Raspberry Pi stat tracker that scraped [Tracker.gg](https://tracker.gg/valorant) for Valorant competitive and unrated match statistics and displayed them on a 16x2 LCD screen. Built as a final project for CS 220 (Computer Architecture and Assembly Language) at CSUDH in May 2021.
+A Raspberry Pi stat tracker that scraped [Tracker.gg](https://tracker.gg/valorant) for Valorant competitive and unrated match statistics and displayed them on a 16x2 LCD screen. Built as a final project for CS 220 at MiraCosta College in May 2021.
 
 > **Note:** This project no longer functions. Tracker.gg has changed their page structure since 2021, which breaks the string-index parsing used to extract stats. The code is preserved here as a reference.
 
@@ -59,4 +59,4 @@ Tracker.gg has updated their page structure since 2021. The parser relied on har
 
 ## Project writeup
 
-Built for CS 220 at California State University, Dominguez Hills. The project writeup covers the hardware setup, LCD integration challenges, parsing approach, and planned improvements (button-based mode cycling, 3D printed case, handling accounts missing certain game modes).
+Built for CS 220 at MiraCosta College. The project writeup covers the hardware setup, LCD integration challenges, parsing approach, and planned improvements (button-based mode cycling, 3D printed case, handling accounts missing certain game modes).
